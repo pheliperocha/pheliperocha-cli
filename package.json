@@ -1,0 +1,13 @@
+{
+  "name": "pheliperocha-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "author": "Phelipe Rocha <phelipeafonso@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.2.0"
+  }
+}
