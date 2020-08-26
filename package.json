@@ -1,10 +1,26 @@
 {
-  "name": "pheliperocha-cli",
+  "name": "pheliperocha",
   "version": "1.0.0",
-  "description": "",
+  "description": "Phelipe Rocha About CLI",
   "main": "cli.js",
   "author": "Phelipe Rocha <phelipeafonso@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/pheliperocha/pheliperocha-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pheliperocha/pheliperocha-cli.git"
+  },
+  "keywords": [
+    "phelipe",
+    "pheliperocha",
+    "ph",
+    "phil",
+    "phrocha",
+    "rocha"
+  ],
+  "bugs": {
+    "url": "https://github.com/pheliperocha/pheliperocha-cli/issues"
+  },
   "dependencies": {
     "chalk-animation": "^1.6.0",
     "inquirer": "^7.3.3",
